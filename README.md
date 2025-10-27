@@ -3,7 +3,6 @@
 
 - MCP SERVER where allow you chat with your database(Postgresql) using AI
 - You can deploy this MCP server as a remote MCP server using Cloudflare Workers
-- This is production ready MCP
 
 ## Key features
 
