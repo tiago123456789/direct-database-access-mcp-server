@@ -90,11 +90,6 @@ Before running the MCP server, you need to configure several environment variabl
 
 ## Production Deployment
 
-#### Set up a KV namespace
-- Create the KV namespace: 
-`wrangler kv namespace create "OAUTH_KV"`
-- Update the `wrangler.jsonc` file with the KV ID (replace <Add-KV-ID>)
-
 #### Deploy
 Deploy the MCP server to make it available on your workers.dev domain
 
